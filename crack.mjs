@@ -151,7 +151,7 @@ const scancodes = {
         );
 
         if (!start) break;
-        pos = start + 8;
+        pos = start + 1;
     
     }
     
